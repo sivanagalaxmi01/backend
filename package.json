@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "siva": "nodemon src/server.js"
+    "siva": "nodemon src/server.js",
+    "start":"node src/server.js"
   },
   "author": "",
   "license": "ISC",
